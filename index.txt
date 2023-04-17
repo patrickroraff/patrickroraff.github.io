@@ -1,0 +1,206 @@
+Patrick Roraff - personal portfolio
+
+# HEDER
+
+Patrick.
+
+En
+
+aria-label = Change Theme
+title = Change Theme
+
+aria-label = Toggle Menu
+title = Toggle Menu
+
+Home.
+About.
+Skills.
+Portfolio.
+Contact.
+
+
+
+# Developer
+
+alt = Inspired by innovation
+
+Passion to design and think outside the box
+
+Get in touch
+
+<ion-icon name="logo-instagram"></ion-icon>
+Instagram
+
+<ion-icon name="logo-linkedin"></ion-icon>
+Linkedin
+
+Scroll
+
+
+
+# STATS
+
+alt = Badge icon
+
+Anticipated Spring 2024
+Bachelors Degree Software Engineering
+
+<ion-icon name="chevron-forward-outline"></ion-icon>
+
+alt = Checkmark icon
+
+10+
+Completed Projects
+
+alt = Peoples rating icon
+
+Looking to put customers first and grow as a developer
+Inspiration
+
+
+
+# ABOUT
+
+alt = Passion to design and think outside the box
+
+About me
+
+Need a Creative Product? I can Help You!
+
+Hi! I’m Patrick Roraff, and I’m a developer who has passion for building clean web applications with intuitive functionalities. I enjoy the process of turning ideas into reality using creative solutions. I’m always curious about learning new skills, tools, and concepts. In addition to working on various solo full stack projects, I have worked with creative teams, which involves daily stand-ups and communications, source control, and project management.
+
+Hire me
+
+Download cv
+
+
+
+# SKILLS
+
+My skills
+
+What My Programming Skills Included?
+
+I develop simple, intuitive and responsive user interface that helps users get things done with less effort and time with those technologies.
+
+Skills
+Tools
+
+HTML5
+alt = HTML5 logo
+
+CSS3
+alt = CSS3 logo
+
+JavaScript
+alt = JavaScript logo
+
+Java
+alt = Java logo
+
+Python
+alt = Python logo
+
+Firebase
+alt = Firebase logo
+
+C++
+alt = C++ logo
+
+Git
+alt = Git logo
+
+VS Code
+alt = VS Code logo
+
+Trello
+alt = Trello logo
+
+Slack
+alt = Slack logo
+
+Photoshop
+alt = Photoshop logo
+
+Adobe XD
+alt = Adobe XD logo
+
+
+# WOKRS
+
+My Works
+
+See My Works Which Will Amaze You!
+
+We develop the best quality website that serves for the long-term. Well-documented, clean, easy and elegant interface helps any non-technical clients.
+
+alt = A macintosh on a yellow background.
+Lorem Ipsum Dolor 01
+April 2022
+
+alt = On a Blue background, a Wacom and a mouse.
+Lorem Ipsum Dolor 02
+
+
+
+Load more work
+
+
+
+# CONTACT
+
+Contact
+
+Have You Any Project? Please Drop a Message
+
+Get in touch and let me know how i can help. Fill out the form and i’ll be in touch as soon as possible.
+
+<ion-icon name="location-outline"></ion-icon>
+Address:
+12743 4TH ST, Yucaipa, CA 92399
+
+<ion-icon name="call-outline"></ion-icon>
+Phone:
+(909) 725 1829
+(909) 725 1829
+
+<ion-icon name="mail-outline"></ion-icon>
+Email:
+info@patrickroraff.com
+support@patrickroraff.com
+
+<ion-icon name="logo-instagram"></ion-icon>
+<ion-icon name="logo-linkedin"></ion-icon>
+<ion-icon name="logo-youtube"></ion-icon>
+
+Name
+<ion-icon name="person-circle"></ion-icon>
+placeholder = e.g John Doe
+
+Email
+<ion-icon name="mail"></ion-icon>
+placeholder = e.g johndoe@mail.com
+
+Phone
+<ion-icon name="call"></ion-icon>
+placeholder = Phone Number
+
+Message
+<ion-icon name="chatbubbles"></ion-icon>
+placeholder = Write message...
+
+Send
+
+
+
+# FOOTER
+
+Patrickroraff.
+
+
+
+# GO TO TOP
+
+title = Go to Top
+
+<ion-icon name="arrow-up"></ion-icon>
